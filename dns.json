@@ -4,7 +4,7 @@
     {
       "Action": "CREATE",
       "ResourceRecordSet": {
-        "Name": "testapp.dharmag.cl",
+        "Name": "testapp.dharmag.cf",
         "Type": "CNAME",
         "TTL": 1000,
         "ResourceRecords": [
